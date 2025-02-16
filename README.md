@@ -28,18 +28,23 @@ iii) Low Engagement on Product Pages: Limited interaction with product details, 
 
 ## Step by Step Process:
 
-i) Consultation & Data Review: Conducted a free 30-minute consultation to understand key challenges.
+i) Consultation & Data Review: 
+Conducted a free 30-minute consultation to understand key challenges.
 
-ii) Data Infrastructure Setup: Set up GA4, BigQuery, and Microsoft Clarity for deep data analysis and behavioral tracking.
+ii) Data Infrastructure Setup:
+Set up GA4, BigQuery, and Microsoft Clarity for deep data analysis and behavioral tracking.
 
-iii) Data Analysis: Identified key friction points, such as mobile checkout drop-offs and low engagement from paid traffic, to inform optimization strategies.
-     See Sample Report: https://github.com/mdrakibhasanrc/GA4-Data-Analysis-Using-Bigquery-Project-For-CRO
+iii) Data Analysis: 
+Identified key friction points, such as mobile checkout drop-offs and low engagement from paid traffic, to inform optimization strategies.
+See Sample Report: https://github.com/mdrakibhasanrc/GA4-Data-Analysis-Using-Bigquery-Project-For-CRO
 
-iv) Website Audit: Conducted a comprehensive audit of key pages, identifying UX issues, slow loading times, and lack of trust signals.
-    See Sample Report: https://tinyurl.com/bde7uvcw
+iv) Website Audit: 
+Conducted a comprehensive audit of key pages, identifying UX issues, slow loading times, and lack of trust signals.
+See Sample Report: https://tinyurl.com/bde7uvcw
 
-v) Strategy Development & Implementation: Collaborated with Clients team to implement quick wins like improving mobile speed, refining product visuals, and launching cart recovery email campaigns and fixs UX Issues Base Previous Data Analysis.
- See Action Sample Report: https://tinyurl.com/3rx95pat
+v) Strategy Development & Implementation: 
+Collaborated with Clients team to implement quick wins like improving mobile speed, refining product visuals, and launching cart recovery email campaigns and fixs UX Issues Base Previous Data Analysis.
+See Action Sample Report: https://tinyurl.com/3rx95pat
 
 Vi) Create Looker Studio dashboard for track KPI:
     See Dashboard: https://tinyurl.com/4phxbmu8
